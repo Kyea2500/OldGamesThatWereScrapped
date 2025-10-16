@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Clear\\SceneClear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Clear\\SceneClear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Clear\\SceneClear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Clear\\SceneClear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Main\\SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Main\\SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Title\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Title\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Title\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Title\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\Time\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\UI\\Time\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\Time\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\UI\\Time\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Main\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Main\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Manager\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Manager\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\RoomBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\Office\\Office.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\Office\\Office.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\Office\\Office.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Room\\Office\\Office.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Manager\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\Manager\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Object\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Dive\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\Pad\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Dive\\Pad\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\Pad\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B16297D0-CDA3-49A0-8FB0-DDD57D11BD7F}|DX_Temp_NextGame1.vcxproj|solutionrelative:Games\\Inside_Program\\Dive\\Pad\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UI_File.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T03:21:34.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Manager\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Manager\\SceneManager.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Manager\\SceneManager.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Manager\\SceneManager.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T06:53:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomViewer.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T00:38:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneTitle.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Title\\SceneTitle.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Title\\SceneTitle.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Title\\SceneTitle.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Title\\SceneTitle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T06:55:03.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneTitle.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Title\\SceneTitle.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Title\\SceneTitle.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Title\\SceneTitle.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Title\\SceneTitle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T06:54:59.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneMain.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Main\\SceneMain.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Main\\SceneMain.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Main\\SceneMain.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Main\\SceneMain.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T06:55:25.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneGameOver.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T07:02:12.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneClear.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Clear\\SceneClear.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Clear\\SceneClear.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Clear\\SceneClear.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Clear\\SceneClear.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T06:56:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneClear.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Clear\\SceneClear.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Clear\\SceneClear.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Clear\\SceneClear.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Clear\\SceneClear.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T06:56:20.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\Time\\Time.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\UI\\Time\\Time.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\Time\\Time.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\UI\\Time\\Time.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T00:47:57.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Time.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\Time\\Time.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\UI\\Time\\Time.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\Time\\Time.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\UI\\Time\\Time.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T00:47:55.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneMain.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Main\\SceneMain.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Main\\SceneMain.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Main\\SceneMain.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Main\\SceneMain.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T07:02:08.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CAM1.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T06:47:59.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomBase.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomBase.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\RoomBase.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomBase.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\RoomBase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T00:51:24.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CAM1.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\CAM1\\CAM1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T06:48:36.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CAM2.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-15T02:25:55.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CAM2.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\CAM2\\CAM2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T02:51:19.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Office.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\Office\\Office.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\Office\\Office.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\Office\\Office.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\Office\\Office.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T01:49:13.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Office.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\Office\\Office.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\Office\\Office.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\Office\\Office.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\Office\\Office.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T01:39:09.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UI_File.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\UI\\UI_File\\UI_File.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T03:24:11.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomViewer.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Room\\RoomViewer\\RoomViewer.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T00:39:20.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Manager\\SceneManager.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\Manager\\SceneManager.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\Manager\\SceneManager.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\Manager\\SceneManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T06:49:17.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Player\\Player.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Player\\Player.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Player\\Player.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Player\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T03:18:32.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Player\\Player.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Object\\Player\\Player.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Object\\Player\\Player.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Object\\Player\\Player.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T03:23:47.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\game.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Dive\\game.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\game.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Dive\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T06:36:01.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SceneGameOver.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Scene\\GameOver\\SceneGameOver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T06:55:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Pad.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\Pad\\Pad.cpp",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Dive\\Pad\\Pad.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\Pad\\Pad.cpp",
+              "RelativeToolTip": "Games\\Inside_Program\\Dive\\Pad\\Pad.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T02:29:11.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T06:26:23.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pad.h",
+              "DocumentMoniker": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\Pad\\Pad.h",
+              "RelativeDocumentMoniker": "Games\\Inside_Program\\Dive\\Pad\\Pad.h",
+              "ToolTip": "C:\\Users\\\u5B89\u85E4 \u6B69\u5922\\Desktop\\DX_Temp_NextGame1\\Games\\Inside_Program\\Dive\\Pad\\Pad.h",
+              "RelativeToolTip": "Games\\Inside_Program\\Dive\\Pad\\Pad.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T02:29:03.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
